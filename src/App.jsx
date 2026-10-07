@@ -391,7 +391,7 @@ function App() {
           <div className="social-links">
 
             <a
-              href="https://github.com/"
+             href="https://github.com/akhilandeswaridevipakkurthi-sys"
               target="_blank"
               rel="noreferrer"
             >
