@@ -406,11 +406,12 @@ function App() {
 </a>
 
             <a
-  href="mailto:akhilandeswaridevipakkurthi@gmail.com"
+  href="https://mail.google.com/mail/?view=cm&fs=1&to=akhilandeswaridevipakkurthi@gmail.com"
+  target="_blank"
+  rel="noreferrer"
 >
   Email
 </a>
-          </div>
 
 
           {/* Contact Form */}
