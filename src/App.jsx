@@ -390,32 +390,41 @@ function App() {
           {/* Social Links */}
           <div className="social-links">
 
+            {/* GitHub */}
             <a
-             href="https://github.com/akhilandeswaridevipakkurthi-sys"
+              href="https://github.com/akhilandeswaridevipakkurthi-sys"
               target="_blank"
               rel="noreferrer"
             >
               GitHub
             </a>
-<a
-  href="https://www.linkedin.com/in/akhilandeswaridevi-pakkurthi-434a2438a"
-  target="_blank"
-  rel="noreferrer"
->
-  LinkedIn
-</a>
 
+
+            {/* LinkedIn */}
+            <a
+              href="https://www.linkedin.com/in/akhilandeswaridevi-pakkurthi-434a2438a"
+              target="_blank"
+              rel="noreferrer"
+            >
+              LinkedIn
+            </a>
+
+
+            {/* Email */}
             <button
-  type="button"
-  onClick={() => {
-    navigator.clipboard.writeText(
-      "akhilandeswaridevipakkurthi@gmail.com"
-    );
-    alert("Email address copied!");
-  }}
->
-  Email
-</button>
+              type="button"
+              onClick={() => {
+                navigator.clipboard.writeText(
+                  "akhilandeswaridevipakkurthi@gmail.com"
+                );
+
+                alert("Email address copied!");
+              }}
+            >
+              Email
+            </button>
+
+          </div>
 
 
           {/* Contact Form */}
