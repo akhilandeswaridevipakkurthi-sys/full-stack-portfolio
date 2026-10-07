@@ -405,13 +405,17 @@ function App() {
   LinkedIn
 </a>
 
-            <a
-  href="https://mail.google.com/mail/?view=cm&fs=1&to=akhilandeswaridevipakkurthi@gmail.com"
-  target="_blank"
-  rel="noreferrer"
+            <button
+  type="button"
+  onClick={() => {
+    navigator.clipboard.writeText(
+      "akhilandeswaridevipakkurthi@gmail.com"
+    );
+    alert("Email address copied!");
+  }}
 >
   Email
-</a>
+</button>
 
 
           {/* Contact Form */}
