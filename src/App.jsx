@@ -406,11 +406,10 @@ function App() {
 </a>
 
             <a
-              href="akhilandeswaridevipakkurthi@gmail.com"
-            >
-              Email
-            </a>
-
+  href="mailto:akhilandeswaridevipakkurthi@gmail.com"
+>
+  Email
+</a>
           </div>
 
 
