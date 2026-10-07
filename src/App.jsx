@@ -238,12 +238,13 @@ function App() {
                 HTML, CSS, JavaScript, Firebase
               </p>
 
-              <a
-                href="#"
+              <button
+                type="button"
                 className="project-button"
+                disabled
               >
-                View Project
-              </a>
+                Coming Soon
+              </button>
 
             </div>
 
@@ -269,12 +270,13 @@ function App() {
                 React, Node.js, Express.js, MongoDB
               </p>
 
-              <a
-                href="#"
+              <button
+                type="button"
                 className="project-button"
+                disabled
               >
-                View Project
-              </a>
+                Coming Soon
+              </button>
 
             </div>
 
@@ -300,12 +302,13 @@ function App() {
                 React, Node.js, Express.js, MongoDB
               </p>
 
-              <a
-                href="#"
+              <button
+                type="button"
                 className="project-button"
+                disabled
               >
-                View Project
-              </a>
+                Coming Soon
+              </button>
 
             </div>
 
