@@ -406,7 +406,7 @@ function App() {
 </a>
 
             <a
-              href="mailto:your-email@gmail.com"
+              href="akhilandeswaridevipakkurthi@gmail.com"
             >
               Email
             </a>
