@@ -416,6 +416,7 @@ function App() {
             {/* Email */}
             <button
               type="button"
+              className="email-button"
               onClick={() => {
                 navigator.clipboard.writeText(
                   "akhilandeswaridevipakkurthi@gmail.com"
